@@ -1,0 +1,11 @@
+opencv-python>=4.13.0.92
+torch>=2.10.0
+torchvision>=0.25.0
+PySide6>=6.10.2
+numpy>=2.4.2
+Pillow>=12.1.0
+
+yolov5>=7.0.14
+
+pytest>=9.0.2
+black>=26.1.0
